@@ -101,6 +101,7 @@
                                     align-items: center;
                                     flex-flow: row wrap;
                                     width: 100%;
+                                    border-bottom: #eee 3px solid;
                                 }
                                 
                                 .main-image {
@@ -207,7 +208,6 @@
                                     }
                                     .bottom-section {
                                         display: flex;
-                                        border-top: #eee 2px solid;
                                         justify-content: center;
                                         align-items: center;
                                         width: 100%;
